@@ -3,10 +3,7 @@
 
 ### Introdução
 
-Sistema guiado por testes TDD para simular uma API (GET,POST) em NodeJS com Jest
-com interface por Aplicativo movel React Native
-
-
+Aplicativo movel React Native, desenvolvido orientado a teste JES consumindo API
 
 ## Instalar
 
